@@ -1,0 +1,2 @@
+﻿  main.cc
+d:\projects\snakegl\snakegl\main.cc(9): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,

@@ -1,0 +1,6 @@
+﻿  main.cc
+d:\projects\c++\snake\snake\main.cc(99): warning C4018: <=: несоответствие типов со знаком и без знака
+d:\projects\c++\snake\snake\main.cc(101): warning C4018: <=: несоответствие типов со знаком и без знака
+d:\projects\c++\snake\snake\main.cc(209): warning C4018: <: несоответствие типов со знаком и без знака
+d:\projects\c++\snake\snake\main.cc(219): warning C4018: <: несоответствие типов со знаком и без знака
+  Snake.vcxproj -> D:\Projects\C++\Snake\Debug\Snake.exe

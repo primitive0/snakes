@@ -1,0 +1,10 @@
+﻿  main.cc
+d:\projects\c++\snakegl\snakegl\main.cc(288): warning C4244: аргумент: преобразование "unsigned int" в "GLfloat", возможна потеря данных
+d:\projects\c++\snakegl\snakegl\main.cc(289): warning C4244: аргумент: преобразование "unsigned int" в "GLfloat", возможна потеря данных
+d:\projects\c++\snakegl\snakegl\main.cc(291): warning C4244: аргумент: преобразование "unsigned int" в "GLfloat", возможна потеря данных
+d:\projects\c++\snakegl\snakegl\main.cc(294): warning C4018: <: несоответствие типов со знаком и без знака
+d:\projects\c++\snakegl\snakegl\main.cc(295): warning C4244: аргумент: преобразование "unsigned int" в "GLfloat", возможна потеря данных
+d:\projects\c++\snakegl\snakegl\main.cc(307): warning C4838: преобразование из "int" в "unsigned int" требует сужающего преобразования
+d:\projects\c++\snakegl\snakegl\main.cc(312): warning C4018: <: несоответствие типов со знаком и без знака
+d:\projects\c++\snakegl\snakegl\main.cc(386): warning C4018: <: несоответствие типов со знаком и без знака
+  SnakeGL.vcxproj -> D:\Projects\C++\SnakeGL\Debug\SnakeGL.exe
